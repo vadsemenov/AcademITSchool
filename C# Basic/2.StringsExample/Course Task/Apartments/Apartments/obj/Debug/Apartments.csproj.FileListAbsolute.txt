@@ -1,8 +1,0 @@
-G:\AcademITSchool\2.StringsExample\Course Task\Apartments\Apartments\bin\Debug\Apartments.exe.config
-G:\AcademITSchool\2.StringsExample\Course Task\Apartments\Apartments\bin\Debug\Apartments.exe
-G:\AcademITSchool\2.StringsExample\Course Task\Apartments\Apartments\bin\Debug\Apartments.pdb
-G:\AcademITSchool\2.StringsExample\Course Task\Apartments\Apartments\obj\Debug\Apartments.csproj.AssemblyReference.cache
-G:\AcademITSchool\2.StringsExample\Course Task\Apartments\Apartments\obj\Debug\Apartments.csproj.SuggestedBindingRedirects.cache
-G:\AcademITSchool\2.StringsExample\Course Task\Apartments\Apartments\obj\Debug\Apartments.csproj.CoreCompileInputs.cache
-G:\AcademITSchool\2.StringsExample\Course Task\Apartments\Apartments\obj\Debug\Apartments.exe
-G:\AcademITSchool\2.StringsExample\Course Task\Apartments\Apartments\obj\Debug\Apartments.pdb

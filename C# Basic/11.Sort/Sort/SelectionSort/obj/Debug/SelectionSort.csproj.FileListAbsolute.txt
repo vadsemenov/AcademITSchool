@@ -1,8 +1,0 @@
-G:\AcademITSchool\C# Basic\11.Sort\Sort\SelectionSort\bin\Debug\SelectionSort.exe.config
-G:\AcademITSchool\C# Basic\11.Sort\Sort\SelectionSort\bin\Debug\SelectionSort.exe
-G:\AcademITSchool\C# Basic\11.Sort\Sort\SelectionSort\bin\Debug\SelectionSort.pdb
-G:\AcademITSchool\C# Basic\11.Sort\Sort\SelectionSort\obj\Debug\SelectionSort.csproj.AssemblyReference.cache
-G:\AcademITSchool\C# Basic\11.Sort\Sort\SelectionSort\obj\Debug\SelectionSort.csproj.SuggestedBindingRedirects.cache
-G:\AcademITSchool\C# Basic\11.Sort\Sort\SelectionSort\obj\Debug\SelectionSort.csproj.CoreCompileInputs.cache
-G:\AcademITSchool\C# Basic\11.Sort\Sort\SelectionSort\obj\Debug\SelectionSort.exe
-G:\AcademITSchool\C# Basic\11.Sort\Sort\SelectionSort\obj\Debug\SelectionSort.pdb

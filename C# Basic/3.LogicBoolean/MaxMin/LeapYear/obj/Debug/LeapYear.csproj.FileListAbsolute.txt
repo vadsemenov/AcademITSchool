@@ -1,8 +1,0 @@
-G:\AcademITSchool\3.LogicBoolean\MaxMin\LeapYear\bin\Debug\LeapYear.exe.config
-G:\AcademITSchool\3.LogicBoolean\MaxMin\LeapYear\bin\Debug\LeapYear.exe
-G:\AcademITSchool\3.LogicBoolean\MaxMin\LeapYear\bin\Debug\LeapYear.pdb
-G:\AcademITSchool\3.LogicBoolean\MaxMin\LeapYear\obj\Debug\LeapYear.csproj.AssemblyReference.cache
-G:\AcademITSchool\3.LogicBoolean\MaxMin\LeapYear\obj\Debug\LeapYear.csproj.SuggestedBindingRedirects.cache
-G:\AcademITSchool\3.LogicBoolean\MaxMin\LeapYear\obj\Debug\LeapYear.csproj.CoreCompileInputs.cache
-G:\AcademITSchool\3.LogicBoolean\MaxMin\LeapYear\obj\Debug\LeapYear.exe
-G:\AcademITSchool\3.LogicBoolean\MaxMin\LeapYear\obj\Debug\LeapYear.pdb

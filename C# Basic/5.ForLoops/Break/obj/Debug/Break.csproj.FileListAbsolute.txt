@@ -1,8 +1,0 @@
-G:\AcademITSchool\5.ForLoops\Break\bin\Debug\Break.exe.config
-G:\AcademITSchool\5.ForLoops\Break\bin\Debug\Break.exe
-G:\AcademITSchool\5.ForLoops\Break\bin\Debug\Break.pdb
-G:\AcademITSchool\5.ForLoops\Break\obj\Debug\Break.csproj.AssemblyReference.cache
-G:\AcademITSchool\5.ForLoops\Break\obj\Debug\Break.csproj.SuggestedBindingRedirects.cache
-G:\AcademITSchool\5.ForLoops\Break\obj\Debug\Break.csproj.CoreCompileInputs.cache
-G:\AcademITSchool\5.ForLoops\Break\obj\Debug\Break.exe
-G:\AcademITSchool\5.ForLoops\Break\obj\Debug\Break.pdb

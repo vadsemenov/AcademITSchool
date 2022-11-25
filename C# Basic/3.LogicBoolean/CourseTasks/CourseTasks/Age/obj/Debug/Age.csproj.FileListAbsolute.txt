@@ -1,8 +1,0 @@
-G:\AcademITSchool\3.LogicBoolean\CourseTasks\CourseTasks\Age\bin\Debug\Age.exe.config
-G:\AcademITSchool\3.LogicBoolean\CourseTasks\CourseTasks\Age\bin\Debug\Age.exe
-G:\AcademITSchool\3.LogicBoolean\CourseTasks\CourseTasks\Age\bin\Debug\Age.pdb
-G:\AcademITSchool\3.LogicBoolean\CourseTasks\CourseTasks\Age\obj\Debug\Age.csproj.AssemblyReference.cache
-G:\AcademITSchool\3.LogicBoolean\CourseTasks\CourseTasks\Age\obj\Debug\Age.csproj.SuggestedBindingRedirects.cache
-G:\AcademITSchool\3.LogicBoolean\CourseTasks\CourseTasks\Age\obj\Debug\Age.csproj.CoreCompileInputs.cache
-G:\AcademITSchool\3.LogicBoolean\CourseTasks\CourseTasks\Age\obj\Debug\Age.exe
-G:\AcademITSchool\3.LogicBoolean\CourseTasks\CourseTasks\Age\obj\Debug\Age.pdb

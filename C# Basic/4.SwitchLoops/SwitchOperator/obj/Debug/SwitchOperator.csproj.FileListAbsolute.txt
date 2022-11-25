@@ -1,8 +1,0 @@
-G:\AcademITSchool\4.SwitchLoops\SwitchLoops\SwitchOperator\bin\Debug\SwitchOperator.exe.config
-G:\AcademITSchool\4.SwitchLoops\SwitchLoops\SwitchOperator\bin\Debug\SwitchOperator.exe
-G:\AcademITSchool\4.SwitchLoops\SwitchLoops\SwitchOperator\bin\Debug\SwitchOperator.pdb
-G:\AcademITSchool\4.SwitchLoops\SwitchLoops\SwitchOperator\obj\Debug\SwitchOperator.csproj.AssemblyReference.cache
-G:\AcademITSchool\4.SwitchLoops\SwitchLoops\SwitchOperator\obj\Debug\SwitchOperator.csproj.SuggestedBindingRedirects.cache
-G:\AcademITSchool\4.SwitchLoops\SwitchLoops\SwitchOperator\obj\Debug\SwitchOperator.csproj.CoreCompileInputs.cache
-G:\AcademITSchool\4.SwitchLoops\SwitchLoops\SwitchOperator\obj\Debug\SwitchOperator.exe
-G:\AcademITSchool\4.SwitchLoops\SwitchLoops\SwitchOperator\obj\Debug\SwitchOperator.pdb

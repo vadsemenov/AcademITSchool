@@ -1,8 +1,0 @@
-G:\AcademITSchool\5.ForLoops\PrimeNumbers\GuessNumber\bin\Debug\GuessNumber.exe.config
-G:\AcademITSchool\5.ForLoops\PrimeNumbers\GuessNumber\bin\Debug\GuessNumber.exe
-G:\AcademITSchool\5.ForLoops\PrimeNumbers\GuessNumber\bin\Debug\GuessNumber.pdb
-G:\AcademITSchool\5.ForLoops\PrimeNumbers\GuessNumber\obj\Debug\GuessNumber.csproj.AssemblyReference.cache
-G:\AcademITSchool\5.ForLoops\PrimeNumbers\GuessNumber\obj\Debug\GuessNumber.csproj.SuggestedBindingRedirects.cache
-G:\AcademITSchool\5.ForLoops\PrimeNumbers\GuessNumber\obj\Debug\GuessNumber.csproj.CoreCompileInputs.cache
-G:\AcademITSchool\5.ForLoops\PrimeNumbers\GuessNumber\obj\Debug\GuessNumber.exe
-G:\AcademITSchool\5.ForLoops\PrimeNumbers\GuessNumber\obj\Debug\GuessNumber.pdb

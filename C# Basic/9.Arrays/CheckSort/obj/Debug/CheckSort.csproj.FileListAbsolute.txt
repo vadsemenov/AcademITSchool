@@ -1,8 +1,0 @@
-G:\AcademITSchool\C# Basic\9.Arrays\Arrays\CheckSort\bin\Debug\CheckSort.exe.config
-G:\AcademITSchool\C# Basic\9.Arrays\Arrays\CheckSort\bin\Debug\CheckSort.exe
-G:\AcademITSchool\C# Basic\9.Arrays\Arrays\CheckSort\bin\Debug\CheckSort.pdb
-G:\AcademITSchool\C# Basic\9.Arrays\Arrays\CheckSort\obj\Debug\CheckSort.csproj.AssemblyReference.cache
-G:\AcademITSchool\C# Basic\9.Arrays\Arrays\CheckSort\obj\Debug\CheckSort.csproj.SuggestedBindingRedirects.cache
-G:\AcademITSchool\C# Basic\9.Arrays\Arrays\CheckSort\obj\Debug\CheckSort.csproj.CoreCompileInputs.cache
-G:\AcademITSchool\C# Basic\9.Arrays\Arrays\CheckSort\obj\Debug\CheckSort.exe
-G:\AcademITSchool\C# Basic\9.Arrays\Arrays\CheckSort\obj\Debug\CheckSort.pdb

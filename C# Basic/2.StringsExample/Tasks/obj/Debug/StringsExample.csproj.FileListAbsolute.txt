@@ -1,8 +1,0 @@
-G:\AcademITSchool\2.StringsExample\bin\Debug\StringsExample.exe.config
-G:\AcademITSchool\2.StringsExample\bin\Debug\StringsExample.exe
-G:\AcademITSchool\2.StringsExample\bin\Debug\StringsExample.pdb
-G:\AcademITSchool\2.StringsExample\obj\Debug\StringsExample.csproj.AssemblyReference.cache
-G:\AcademITSchool\2.StringsExample\obj\Debug\StringsExample.csproj.SuggestedBindingRedirects.cache
-G:\AcademITSchool\2.StringsExample\obj\Debug\StringsExample.csproj.CoreCompileInputs.cache
-G:\AcademITSchool\2.StringsExample\obj\Debug\StringsExample.exe
-G:\AcademITSchool\2.StringsExample\obj\Debug\StringsExample.pdb

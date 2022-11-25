@@ -1,8 +1,0 @@
-G:\AcademITSchool\C# Basic\10.Recursion\BinarySearch\bin\Debug\BinarySearch.exe.config
-G:\AcademITSchool\C# Basic\10.Recursion\BinarySearch\bin\Debug\BinarySearch.exe
-G:\AcademITSchool\C# Basic\10.Recursion\BinarySearch\bin\Debug\BinarySearch.pdb
-G:\AcademITSchool\C# Basic\10.Recursion\BinarySearch\obj\Debug\BinarySearch.csproj.AssemblyReference.cache
-G:\AcademITSchool\C# Basic\10.Recursion\BinarySearch\obj\Debug\BinarySearch.csproj.SuggestedBindingRedirects.cache
-G:\AcademITSchool\C# Basic\10.Recursion\BinarySearch\obj\Debug\BinarySearch.csproj.CoreCompileInputs.cache
-G:\AcademITSchool\C# Basic\10.Recursion\BinarySearch\obj\Debug\BinarySearch.exe
-G:\AcademITSchool\C# Basic\10.Recursion\BinarySearch\obj\Debug\BinarySearch.pdb

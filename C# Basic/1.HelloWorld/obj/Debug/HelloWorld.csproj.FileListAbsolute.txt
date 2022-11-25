@@ -1,8 +1,0 @@
-G:\AcademITSchool\1.HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
-G:\AcademITSchool\1.HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
-G:\AcademITSchool\1.HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
-G:\AcademITSchool\1.HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
-G:\AcademITSchool\1.HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.SuggestedBindingRedirects.cache
-G:\AcademITSchool\1.HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
-G:\AcademITSchool\1.HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
-G:\AcademITSchool\1.HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

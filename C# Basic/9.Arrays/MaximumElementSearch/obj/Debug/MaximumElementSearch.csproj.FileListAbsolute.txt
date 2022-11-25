@@ -1,8 +1,0 @@
-G:\AcademITSchool\C# Basic\9.Arrays\MaximumElementSearch\bin\Debug\MaximumElementSearch.exe.config
-G:\AcademITSchool\C# Basic\9.Arrays\MaximumElementSearch\bin\Debug\MaximumElementSearch.exe
-G:\AcademITSchool\C# Basic\9.Arrays\MaximumElementSearch\bin\Debug\MaximumElementSearch.pdb
-G:\AcademITSchool\C# Basic\9.Arrays\MaximumElementSearch\obj\Debug\MaximumElementSearch.csproj.AssemblyReference.cache
-G:\AcademITSchool\C# Basic\9.Arrays\MaximumElementSearch\obj\Debug\MaximumElementSearch.csproj.SuggestedBindingRedirects.cache
-G:\AcademITSchool\C# Basic\9.Arrays\MaximumElementSearch\obj\Debug\MaximumElementSearch.csproj.CoreCompileInputs.cache
-G:\AcademITSchool\C# Basic\9.Arrays\MaximumElementSearch\obj\Debug\MaximumElementSearch.exe
-G:\AcademITSchool\C# Basic\9.Arrays\MaximumElementSearch\obj\Debug\MaximumElementSearch.pdb

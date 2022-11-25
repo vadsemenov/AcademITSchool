@@ -1,8 +1,0 @@
-G:\AcademITSchool\3.LogicBoolean\CourseTasks\CourseTasks\NextDate\bin\Debug\NextDate.exe.config
-G:\AcademITSchool\3.LogicBoolean\CourseTasks\CourseTasks\NextDate\bin\Debug\NextDate.exe
-G:\AcademITSchool\3.LogicBoolean\CourseTasks\CourseTasks\NextDate\bin\Debug\NextDate.pdb
-G:\AcademITSchool\3.LogicBoolean\CourseTasks\CourseTasks\NextDate\obj\Debug\NextDate.csproj.AssemblyReference.cache
-G:\AcademITSchool\3.LogicBoolean\CourseTasks\CourseTasks\NextDate\obj\Debug\NextDate.csproj.SuggestedBindingRedirects.cache
-G:\AcademITSchool\3.LogicBoolean\CourseTasks\CourseTasks\NextDate\obj\Debug\NextDate.csproj.CoreCompileInputs.cache
-G:\AcademITSchool\3.LogicBoolean\CourseTasks\CourseTasks\NextDate\obj\Debug\NextDate.exe
-G:\AcademITSchool\3.LogicBoolean\CourseTasks\CourseTasks\NextDate\obj\Debug\NextDate.pdb

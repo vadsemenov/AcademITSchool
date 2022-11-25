@@ -1,8 +1,0 @@
-G:\AcademITSchool\3.LogicBoolean\CourseTasks\CourseTasks\QuadraticEquation\bin\Debug\QuadraticEquation.exe.config
-G:\AcademITSchool\3.LogicBoolean\CourseTasks\CourseTasks\QuadraticEquation\bin\Debug\QuadraticEquation.exe
-G:\AcademITSchool\3.LogicBoolean\CourseTasks\CourseTasks\QuadraticEquation\bin\Debug\QuadraticEquation.pdb
-G:\AcademITSchool\3.LogicBoolean\CourseTasks\CourseTasks\QuadraticEquation\obj\Debug\QuadraticEquation.csproj.AssemblyReference.cache
-G:\AcademITSchool\3.LogicBoolean\CourseTasks\CourseTasks\QuadraticEquation\obj\Debug\QuadraticEquation.csproj.SuggestedBindingRedirects.cache
-G:\AcademITSchool\3.LogicBoolean\CourseTasks\CourseTasks\QuadraticEquation\obj\Debug\QuadraticEquation.csproj.CoreCompileInputs.cache
-G:\AcademITSchool\3.LogicBoolean\CourseTasks\CourseTasks\QuadraticEquation\obj\Debug\QuadraticEquation.exe
-G:\AcademITSchool\3.LogicBoolean\CourseTasks\CourseTasks\QuadraticEquation\obj\Debug\QuadraticEquation.pdb

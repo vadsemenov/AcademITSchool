@@ -1,8 +1,0 @@
-G:\AcademITSchool\C# Basic\9.Arrays\Arrays\StringsArray\bin\Debug\StringsArray.exe.config
-G:\AcademITSchool\C# Basic\9.Arrays\Arrays\StringsArray\bin\Debug\StringsArray.exe
-G:\AcademITSchool\C# Basic\9.Arrays\Arrays\StringsArray\bin\Debug\StringsArray.pdb
-G:\AcademITSchool\C# Basic\9.Arrays\Arrays\StringsArray\obj\Debug\StringsArray.csproj.AssemblyReference.cache
-G:\AcademITSchool\C# Basic\9.Arrays\Arrays\StringsArray\obj\Debug\StringsArray.csproj.SuggestedBindingRedirects.cache
-G:\AcademITSchool\C# Basic\9.Arrays\Arrays\StringsArray\obj\Debug\StringsArray.csproj.CoreCompileInputs.cache
-G:\AcademITSchool\C# Basic\9.Arrays\Arrays\StringsArray\obj\Debug\StringsArray.exe
-G:\AcademITSchool\C# Basic\9.Arrays\Arrays\StringsArray\obj\Debug\StringsArray.pdb

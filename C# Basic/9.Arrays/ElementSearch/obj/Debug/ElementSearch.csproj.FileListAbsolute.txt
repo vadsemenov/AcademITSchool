@@ -1,8 +1,0 @@
-G:\AcademITSchool\C# Basic\9.Arrays\Arrays\ElementSearch\bin\Debug\ElementSearch.exe.config
-G:\AcademITSchool\C# Basic\9.Arrays\Arrays\ElementSearch\bin\Debug\ElementSearch.exe
-G:\AcademITSchool\C# Basic\9.Arrays\Arrays\ElementSearch\bin\Debug\ElementSearch.pdb
-G:\AcademITSchool\C# Basic\9.Arrays\Arrays\ElementSearch\obj\Debug\ElementSearch.csproj.AssemblyReference.cache
-G:\AcademITSchool\C# Basic\9.Arrays\Arrays\ElementSearch\obj\Debug\ElementSearch.csproj.SuggestedBindingRedirects.cache
-G:\AcademITSchool\C# Basic\9.Arrays\Arrays\ElementSearch\obj\Debug\ElementSearch.csproj.CoreCompileInputs.cache
-G:\AcademITSchool\C# Basic\9.Arrays\Arrays\ElementSearch\obj\Debug\ElementSearch.exe
-G:\AcademITSchool\C# Basic\9.Arrays\Arrays\ElementSearch\obj\Debug\ElementSearch.pdb

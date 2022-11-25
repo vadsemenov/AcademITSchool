@@ -1,8 +1,0 @@
-G:\AcademITSchool\C# Basic\11.Sort\Sort\InsertionSort\bin\Debug\InsertionSort.exe.config
-G:\AcademITSchool\C# Basic\11.Sort\Sort\InsertionSort\bin\Debug\InsertionSort.exe
-G:\AcademITSchool\C# Basic\11.Sort\Sort\InsertionSort\bin\Debug\InsertionSort.pdb
-G:\AcademITSchool\C# Basic\11.Sort\Sort\InsertionSort\obj\Debug\InsertionSort.csproj.AssemblyReference.cache
-G:\AcademITSchool\C# Basic\11.Sort\Sort\InsertionSort\obj\Debug\InsertionSort.csproj.SuggestedBindingRedirects.cache
-G:\AcademITSchool\C# Basic\11.Sort\Sort\InsertionSort\obj\Debug\InsertionSort.csproj.CoreCompileInputs.cache
-G:\AcademITSchool\C# Basic\11.Sort\Sort\InsertionSort\obj\Debug\InsertionSort.exe
-G:\AcademITSchool\C# Basic\11.Sort\Sort\InsertionSort\obj\Debug\InsertionSort.pdb

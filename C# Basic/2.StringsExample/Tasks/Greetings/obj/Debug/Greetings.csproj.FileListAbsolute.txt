@@ -1,8 +1,0 @@
-G:\AcademITSchool\2.StringsExample\Tasks\Greetings\bin\Debug\Greetings.exe.config
-G:\AcademITSchool\2.StringsExample\Tasks\Greetings\bin\Debug\Greetings.exe
-G:\AcademITSchool\2.StringsExample\Tasks\Greetings\bin\Debug\Greetings.pdb
-G:\AcademITSchool\2.StringsExample\Tasks\Greetings\obj\Debug\Greetings.csproj.AssemblyReference.cache
-G:\AcademITSchool\2.StringsExample\Tasks\Greetings\obj\Debug\Greetings.csproj.SuggestedBindingRedirects.cache
-G:\AcademITSchool\2.StringsExample\Tasks\Greetings\obj\Debug\Greetings.csproj.CoreCompileInputs.cache
-G:\AcademITSchool\2.StringsExample\Tasks\Greetings\obj\Debug\Greetings.exe
-G:\AcademITSchool\2.StringsExample\Tasks\Greetings\obj\Debug\Greetings.pdb
