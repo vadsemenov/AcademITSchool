@@ -1,0 +1,16 @@
+G:\AcademITSchool\C# Basic\9.Arrays\Arrays\ArrayReverse\bin\Debug\ArrayReverse.exe.config
+G:\AcademITSchool\C# Basic\9.Arrays\Arrays\ArrayReverse\bin\Debug\ArrayReverse.exe
+G:\AcademITSchool\C# Basic\9.Arrays\Arrays\ArrayReverse\bin\Debug\ArrayReverse.pdb
+G:\AcademITSchool\C# Basic\9.Arrays\Arrays\ArrayReverse\obj\Debug\ArrayReverse.csproj.AssemblyReference.cache
+G:\AcademITSchool\C# Basic\9.Arrays\Arrays\ArrayReverse\obj\Debug\ArrayReverse.csproj.SuggestedBindingRedirects.cache
+G:\AcademITSchool\C# Basic\9.Arrays\Arrays\ArrayReverse\obj\Debug\ArrayReverse.csproj.CoreCompileInputs.cache
+G:\AcademITSchool\C# Basic\9.Arrays\Arrays\ArrayReverse\obj\Debug\ArrayReverse.exe
+G:\AcademITSchool\C# Basic\9.Arrays\Arrays\ArrayReverse\obj\Debug\ArrayReverse.pdb
+G:\AcademITSchool\C# Basic\9.Arrays\ArrayReverse\bin\Debug\ArrayReverse.exe.config
+G:\AcademITSchool\C# Basic\9.Arrays\ArrayReverse\bin\Debug\ArrayReverse.exe
+G:\AcademITSchool\C# Basic\9.Arrays\ArrayReverse\bin\Debug\ArrayReverse.pdb
+G:\AcademITSchool\C# Basic\9.Arrays\ArrayReverse\obj\Debug\ArrayReverse.csproj.AssemblyReference.cache
+G:\AcademITSchool\C# Basic\9.Arrays\ArrayReverse\obj\Debug\ArrayReverse.csproj.SuggestedBindingRedirects.cache
+G:\AcademITSchool\C# Basic\9.Arrays\ArrayReverse\obj\Debug\ArrayReverse.csproj.CoreCompileInputs.cache
+G:\AcademITSchool\C# Basic\9.Arrays\ArrayReverse\obj\Debug\ArrayReverse.exe
+G:\AcademITSchool\C# Basic\9.Arrays\ArrayReverse\obj\Debug\ArrayReverse.pdb

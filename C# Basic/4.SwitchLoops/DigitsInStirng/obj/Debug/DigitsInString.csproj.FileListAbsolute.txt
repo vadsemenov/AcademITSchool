@@ -1,0 +1,8 @@
+G:\AcademITSchool\4.SwitchLoops\SwitchLoops\DigitsInStirng\bin\Debug\DigitsInStirng.exe.config
+G:\AcademITSchool\4.SwitchLoops\SwitchLoops\DigitsInStirng\bin\Debug\DigitsInStirng.exe
+G:\AcademITSchool\4.SwitchLoops\SwitchLoops\DigitsInStirng\bin\Debug\DigitsInStirng.pdb
+G:\AcademITSchool\4.SwitchLoops\SwitchLoops\DigitsInStirng\obj\Debug\DigitsInString.csproj.AssemblyReference.cache
+G:\AcademITSchool\4.SwitchLoops\SwitchLoops\DigitsInStirng\obj\Debug\DigitsInString.csproj.SuggestedBindingRedirects.cache
+G:\AcademITSchool\4.SwitchLoops\SwitchLoops\DigitsInStirng\obj\Debug\DigitsInString.csproj.CoreCompileInputs.cache
+G:\AcademITSchool\4.SwitchLoops\SwitchLoops\DigitsInStirng\obj\Debug\DigitsInStirng.exe
+G:\AcademITSchool\4.SwitchLoops\SwitchLoops\DigitsInStirng\obj\Debug\DigitsInStirng.pdb

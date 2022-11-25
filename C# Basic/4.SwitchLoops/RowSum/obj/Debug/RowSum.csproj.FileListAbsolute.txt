@@ -1,0 +1,8 @@
+G:\AcademITSchool\4.SwitchLoops\SwitchLoops\RowSum\bin\Debug\RowSum.exe.config
+G:\AcademITSchool\4.SwitchLoops\SwitchLoops\RowSum\bin\Debug\RowSum.exe
+G:\AcademITSchool\4.SwitchLoops\SwitchLoops\RowSum\bin\Debug\RowSum.pdb
+G:\AcademITSchool\4.SwitchLoops\SwitchLoops\RowSum\obj\Debug\RowSum.csproj.AssemblyReference.cache
+G:\AcademITSchool\4.SwitchLoops\SwitchLoops\RowSum\obj\Debug\RowSum.csproj.SuggestedBindingRedirects.cache
+G:\AcademITSchool\4.SwitchLoops\SwitchLoops\RowSum\obj\Debug\RowSum.csproj.CoreCompileInputs.cache
+G:\AcademITSchool\4.SwitchLoops\SwitchLoops\RowSum\obj\Debug\RowSum.exe
+G:\AcademITSchool\4.SwitchLoops\SwitchLoops\RowSum\obj\Debug\RowSum.pdb

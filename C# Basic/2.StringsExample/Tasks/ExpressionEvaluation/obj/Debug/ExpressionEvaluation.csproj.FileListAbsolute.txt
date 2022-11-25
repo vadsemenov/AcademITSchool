@@ -1,0 +1,16 @@
+G:\AcademITSchool\2.StringsExample\ExpressionEvaluation\bin\Debug\ExpressionEvaluation.exe.config
+G:\AcademITSchool\2.StringsExample\ExpressionEvaluation\bin\Debug\ExpressionEvaluation.exe
+G:\AcademITSchool\2.StringsExample\ExpressionEvaluation\bin\Debug\ExpressionEvaluation.pdb
+G:\AcademITSchool\2.StringsExample\ExpressionEvaluation\obj\Debug\ExpressionEvaluation.csproj.AssemblyReference.cache
+G:\AcademITSchool\2.StringsExample\ExpressionEvaluation\obj\Debug\ExpressionEvaluation.csproj.SuggestedBindingRedirects.cache
+G:\AcademITSchool\2.StringsExample\ExpressionEvaluation\obj\Debug\ExpressionEvaluation.csproj.CoreCompileInputs.cache
+G:\AcademITSchool\2.StringsExample\ExpressionEvaluation\obj\Debug\ExpressionEvaluation.exe
+G:\AcademITSchool\2.StringsExample\ExpressionEvaluation\obj\Debug\ExpressionEvaluation.pdb
+G:\AcademITSchool\2.StringsExample\Tasks\ExpressionEvaluation\bin\Debug\ExpressionEvaluation.exe.config
+G:\AcademITSchool\2.StringsExample\Tasks\ExpressionEvaluation\bin\Debug\ExpressionEvaluation.exe
+G:\AcademITSchool\2.StringsExample\Tasks\ExpressionEvaluation\bin\Debug\ExpressionEvaluation.pdb
+G:\AcademITSchool\2.StringsExample\Tasks\ExpressionEvaluation\obj\Debug\ExpressionEvaluation.csproj.AssemblyReference.cache
+G:\AcademITSchool\2.StringsExample\Tasks\ExpressionEvaluation\obj\Debug\ExpressionEvaluation.csproj.SuggestedBindingRedirects.cache
+G:\AcademITSchool\2.StringsExample\Tasks\ExpressionEvaluation\obj\Debug\ExpressionEvaluation.csproj.CoreCompileInputs.cache
+G:\AcademITSchool\2.StringsExample\Tasks\ExpressionEvaluation\obj\Debug\ExpressionEvaluation.exe
+G:\AcademITSchool\2.StringsExample\Tasks\ExpressionEvaluation\obj\Debug\ExpressionEvaluation.pdb

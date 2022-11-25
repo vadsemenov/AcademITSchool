@@ -1,0 +1,8 @@
+G:\AcademITSchool\4.SwitchLoops\SwitchLoops\NumbersAverage\bin\Debug\NumbersAverage.exe.config
+G:\AcademITSchool\4.SwitchLoops\SwitchLoops\NumbersAverage\bin\Debug\NumbersAverage.exe
+G:\AcademITSchool\4.SwitchLoops\SwitchLoops\NumbersAverage\bin\Debug\NumbersAverage.pdb
+G:\AcademITSchool\4.SwitchLoops\SwitchLoops\NumbersAverage\obj\Debug\NumbersAverage.csproj.AssemblyReference.cache
+G:\AcademITSchool\4.SwitchLoops\SwitchLoops\NumbersAverage\obj\Debug\NumbersAverage.csproj.SuggestedBindingRedirects.cache
+G:\AcademITSchool\4.SwitchLoops\SwitchLoops\NumbersAverage\obj\Debug\NumbersAverage.csproj.CoreCompileInputs.cache
+G:\AcademITSchool\4.SwitchLoops\SwitchLoops\NumbersAverage\obj\Debug\NumbersAverage.exe
+G:\AcademITSchool\4.SwitchLoops\SwitchLoops\NumbersAverage\obj\Debug\NumbersAverage.pdb

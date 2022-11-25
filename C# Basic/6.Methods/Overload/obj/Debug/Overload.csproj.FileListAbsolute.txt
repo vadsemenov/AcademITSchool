@@ -1,0 +1,16 @@
+G:\AcademITSchool\6.Methods\PrintAndRead\Overload\bin\Debug\Overload.exe.config
+G:\AcademITSchool\6.Methods\PrintAndRead\Overload\bin\Debug\Overload.exe
+G:\AcademITSchool\6.Methods\PrintAndRead\Overload\bin\Debug\Overload.pdb
+G:\AcademITSchool\6.Methods\PrintAndRead\Overload\obj\Debug\Overload.csproj.AssemblyReference.cache
+G:\AcademITSchool\6.Methods\PrintAndRead\Overload\obj\Debug\Overload.csproj.SuggestedBindingRedirects.cache
+G:\AcademITSchool\6.Methods\PrintAndRead\Overload\obj\Debug\Overload.csproj.CoreCompileInputs.cache
+G:\AcademITSchool\6.Methods\PrintAndRead\Overload\obj\Debug\Overload.exe
+G:\AcademITSchool\6.Methods\PrintAndRead\Overload\obj\Debug\Overload.pdb
+G:\AcademITSchool\6.Methods\Overload\bin\Debug\Overload.exe.config
+G:\AcademITSchool\6.Methods\Overload\bin\Debug\Overload.exe
+G:\AcademITSchool\6.Methods\Overload\bin\Debug\Overload.pdb
+G:\AcademITSchool\6.Methods\Overload\obj\Debug\Overload.csproj.AssemblyReference.cache
+G:\AcademITSchool\6.Methods\Overload\obj\Debug\Overload.csproj.SuggestedBindingRedirects.cache
+G:\AcademITSchool\6.Methods\Overload\obj\Debug\Overload.csproj.CoreCompileInputs.cache
+G:\AcademITSchool\6.Methods\Overload\obj\Debug\Overload.exe
+G:\AcademITSchool\6.Methods\Overload\obj\Debug\Overload.pdb

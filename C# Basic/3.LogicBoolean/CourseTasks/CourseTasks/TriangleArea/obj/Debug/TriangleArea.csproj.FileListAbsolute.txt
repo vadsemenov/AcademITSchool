@@ -1,0 +1,8 @@
+G:\AcademITSchool\3.LogicBoolean\CourseTasks\CourseTasks\TriangleArea\bin\Debug\TriangleArea.exe.config
+G:\AcademITSchool\3.LogicBoolean\CourseTasks\CourseTasks\TriangleArea\bin\Debug\TriangleArea.exe
+G:\AcademITSchool\3.LogicBoolean\CourseTasks\CourseTasks\TriangleArea\bin\Debug\TriangleArea.pdb
+G:\AcademITSchool\3.LogicBoolean\CourseTasks\CourseTasks\TriangleArea\obj\Debug\TriangleArea.csproj.AssemblyReference.cache
+G:\AcademITSchool\3.LogicBoolean\CourseTasks\CourseTasks\TriangleArea\obj\Debug\TriangleArea.csproj.SuggestedBindingRedirects.cache
+G:\AcademITSchool\3.LogicBoolean\CourseTasks\CourseTasks\TriangleArea\obj\Debug\TriangleArea.csproj.CoreCompileInputs.cache
+G:\AcademITSchool\3.LogicBoolean\CourseTasks\CourseTasks\TriangleArea\obj\Debug\TriangleArea.exe
+G:\AcademITSchool\3.LogicBoolean\CourseTasks\CourseTasks\TriangleArea\obj\Debug\TriangleArea.pdb

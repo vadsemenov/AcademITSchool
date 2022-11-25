@@ -1,0 +1,8 @@
+G:\AcademITSchool\5.ForLoops\Deposit\bin\Debug\Deposit.exe.config
+G:\AcademITSchool\5.ForLoops\Deposit\bin\Debug\Deposit.exe
+G:\AcademITSchool\5.ForLoops\Deposit\bin\Debug\Deposit.pdb
+G:\AcademITSchool\5.ForLoops\Deposit\obj\Debug\Deposit.csproj.AssemblyReference.cache
+G:\AcademITSchool\5.ForLoops\Deposit\obj\Debug\Deposit.csproj.SuggestedBindingRedirects.cache
+G:\AcademITSchool\5.ForLoops\Deposit\obj\Debug\Deposit.csproj.CoreCompileInputs.cache
+G:\AcademITSchool\5.ForLoops\Deposit\obj\Debug\Deposit.exe
+G:\AcademITSchool\5.ForLoops\Deposit\obj\Debug\Deposit.pdb

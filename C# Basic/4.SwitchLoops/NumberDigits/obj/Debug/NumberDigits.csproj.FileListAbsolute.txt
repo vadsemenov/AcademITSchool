@@ -1,0 +1,8 @@
+G:\AcademITSchool\4.SwitchLoops\SwitchLoops\NumberDigits\bin\Debug\NumberDigits.exe.config
+G:\AcademITSchool\4.SwitchLoops\SwitchLoops\NumberDigits\bin\Debug\NumberDigits.exe
+G:\AcademITSchool\4.SwitchLoops\SwitchLoops\NumberDigits\bin\Debug\NumberDigits.pdb
+G:\AcademITSchool\4.SwitchLoops\SwitchLoops\NumberDigits\obj\Debug\NumberDigits.csproj.AssemblyReference.cache
+G:\AcademITSchool\4.SwitchLoops\SwitchLoops\NumberDigits\obj\Debug\NumberDigits.csproj.SuggestedBindingRedirects.cache
+G:\AcademITSchool\4.SwitchLoops\SwitchLoops\NumberDigits\obj\Debug\NumberDigits.csproj.CoreCompileInputs.cache
+G:\AcademITSchool\4.SwitchLoops\SwitchLoops\NumberDigits\obj\Debug\NumberDigits.exe
+G:\AcademITSchool\4.SwitchLoops\SwitchLoops\NumberDigits\obj\Debug\NumberDigits.pdb

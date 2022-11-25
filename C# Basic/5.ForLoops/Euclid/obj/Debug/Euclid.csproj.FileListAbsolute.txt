@@ -1,0 +1,16 @@
+G:\AcademITSchool\5.ForLoops\Euclid\bin\Debug\Euclid.exe.config
+G:\AcademITSchool\5.ForLoops\Euclid\bin\Debug\Euclid.exe
+G:\AcademITSchool\5.ForLoops\Euclid\bin\Debug\Euclid.pdb
+G:\AcademITSchool\5.ForLoops\Euclid\obj\Debug\Euclid.csproj.AssemblyReference.cache
+G:\AcademITSchool\5.ForLoops\Euclid\obj\Debug\Euclid.csproj.SuggestedBindingRedirects.cache
+G:\AcademITSchool\5.ForLoops\Euclid\obj\Debug\Euclid.csproj.CoreCompileInputs.cache
+G:\AcademITSchool\5.ForLoops\Euclid\obj\Debug\Euclid.exe
+G:\AcademITSchool\5.ForLoops\Euclid\obj\Debug\Euclid.pdb
+G:\AcademITSchool\C# Basic\5.ForLoops\Euclid\bin\Debug\Euclid.exe.config
+G:\AcademITSchool\C# Basic\5.ForLoops\Euclid\bin\Debug\Euclid.exe
+G:\AcademITSchool\C# Basic\5.ForLoops\Euclid\bin\Debug\Euclid.pdb
+G:\AcademITSchool\C# Basic\5.ForLoops\Euclid\obj\Debug\Euclid.csproj.AssemblyReference.cache
+G:\AcademITSchool\C# Basic\5.ForLoops\Euclid\obj\Debug\Euclid.csproj.SuggestedBindingRedirects.cache
+G:\AcademITSchool\C# Basic\5.ForLoops\Euclid\obj\Debug\Euclid.csproj.CoreCompileInputs.cache
+G:\AcademITSchool\C# Basic\5.ForLoops\Euclid\obj\Debug\Euclid.exe
+G:\AcademITSchool\C# Basic\5.ForLoops\Euclid\obj\Debug\Euclid.pdb

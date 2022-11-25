@@ -1,0 +1,16 @@
+G:\AcademITSchool\8.ReferencedAndValueTypes\StringAndChar\MaxSubstring\bin\Debug\MaxSubstring.exe.config
+G:\AcademITSchool\8.ReferencedAndValueTypes\StringAndChar\MaxSubstring\bin\Debug\MaxSubstring.exe
+G:\AcademITSchool\8.ReferencedAndValueTypes\StringAndChar\MaxSubstring\bin\Debug\MaxSubstring.pdb
+G:\AcademITSchool\8.ReferencedAndValueTypes\StringAndChar\MaxSubstring\obj\Debug\MaxSubstring.csproj.AssemblyReference.cache
+G:\AcademITSchool\8.ReferencedAndValueTypes\StringAndChar\MaxSubstring\obj\Debug\MaxSubstring.csproj.SuggestedBindingRedirects.cache
+G:\AcademITSchool\8.ReferencedAndValueTypes\StringAndChar\MaxSubstring\obj\Debug\MaxSubstring.csproj.CoreCompileInputs.cache
+G:\AcademITSchool\8.ReferencedAndValueTypes\StringAndChar\MaxSubstring\obj\Debug\MaxSubstring.exe
+G:\AcademITSchool\8.ReferencedAndValueTypes\StringAndChar\MaxSubstring\obj\Debug\MaxSubstring.pdb
+G:\AcademITSchool\C# Basic\8.ReferencedAndValueTypes\MaxSubstring\bin\Debug\MaxSubstring.exe.config
+G:\AcademITSchool\C# Basic\8.ReferencedAndValueTypes\MaxSubstring\bin\Debug\MaxSubstring.exe
+G:\AcademITSchool\C# Basic\8.ReferencedAndValueTypes\MaxSubstring\bin\Debug\MaxSubstring.pdb
+G:\AcademITSchool\C# Basic\8.ReferencedAndValueTypes\MaxSubstring\obj\Debug\MaxSubstring.csproj.AssemblyReference.cache
+G:\AcademITSchool\C# Basic\8.ReferencedAndValueTypes\MaxSubstring\obj\Debug\MaxSubstring.csproj.SuggestedBindingRedirects.cache
+G:\AcademITSchool\C# Basic\8.ReferencedAndValueTypes\MaxSubstring\obj\Debug\MaxSubstring.csproj.CoreCompileInputs.cache
+G:\AcademITSchool\C# Basic\8.ReferencedAndValueTypes\MaxSubstring\obj\Debug\MaxSubstring.exe
+G:\AcademITSchool\C# Basic\8.ReferencedAndValueTypes\MaxSubstring\obj\Debug\MaxSubstring.pdb

@@ -1,0 +1,8 @@
+G:\AcademITSchool\6.Methods\PrintAndRead\OrderCost\bin\Debug\OrderCost.exe.config
+G:\AcademITSchool\6.Methods\PrintAndRead\OrderCost\bin\Debug\OrderCost.exe
+G:\AcademITSchool\6.Methods\PrintAndRead\OrderCost\bin\Debug\OrderCost.pdb
+G:\AcademITSchool\6.Methods\PrintAndRead\OrderCost\obj\Debug\OrderCost.csproj.AssemblyReference.cache
+G:\AcademITSchool\6.Methods\PrintAndRead\OrderCost\obj\Debug\OrderCost.csproj.SuggestedBindingRedirects.cache
+G:\AcademITSchool\6.Methods\PrintAndRead\OrderCost\obj\Debug\OrderCost.csproj.CoreCompileInputs.cache
+G:\AcademITSchool\6.Methods\PrintAndRead\OrderCost\obj\Debug\OrderCost.exe
+G:\AcademITSchool\6.Methods\PrintAndRead\OrderCost\obj\Debug\OrderCost.pdb

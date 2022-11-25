@@ -1,0 +1,8 @@
+G:\AcademITSchool\3.LogicBoolean\MaxMin\MaxMin\bin\Debug\MaxMin.exe.config
+G:\AcademITSchool\3.LogicBoolean\MaxMin\MaxMin\bin\Debug\MaxMin.exe
+G:\AcademITSchool\3.LogicBoolean\MaxMin\MaxMin\bin\Debug\MaxMin.pdb
+G:\AcademITSchool\3.LogicBoolean\MaxMin\MaxMin\obj\Debug\MaxMin.csproj.AssemblyReference.cache
+G:\AcademITSchool\3.LogicBoolean\MaxMin\MaxMin\obj\Debug\MaxMin.csproj.SuggestedBindingRedirects.cache
+G:\AcademITSchool\3.LogicBoolean\MaxMin\MaxMin\obj\Debug\MaxMin.csproj.CoreCompileInputs.cache
+G:\AcademITSchool\3.LogicBoolean\MaxMin\MaxMin\obj\Debug\MaxMin.exe
+G:\AcademITSchool\3.LogicBoolean\MaxMin\MaxMin\obj\Debug\MaxMin.pdb

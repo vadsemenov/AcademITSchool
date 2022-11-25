@@ -1,0 +1,3 @@
+G:\AcademITSchool\6.Methods\PrintAndRead\PrintAndRead\obj\Debug\PrintAndRead.csproj.AssemblyReference.cache
+G:\AcademITSchool\6.Methods\PrintAndRead\PrintAndRead\obj\Debug\PrintAndRead.csproj.SuggestedBindingRedirects.cache
+G:\AcademITSchool\6.Methods\PrintAndRead\PrintAndRead\obj\Debug\PrintAndRead.csproj.CoreCompileInputs.cache

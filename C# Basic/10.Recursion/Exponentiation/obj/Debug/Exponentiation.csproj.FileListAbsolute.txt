@@ -1,0 +1,8 @@
+G:\AcademITSchool\C# Basic\10.Recursion\Exponentiation\bin\Debug\Exponentiation.exe.config
+G:\AcademITSchool\C# Basic\10.Recursion\Exponentiation\bin\Debug\Exponentiation.exe
+G:\AcademITSchool\C# Basic\10.Recursion\Exponentiation\bin\Debug\Exponentiation.pdb
+G:\AcademITSchool\C# Basic\10.Recursion\Exponentiation\obj\Debug\Exponentiation.csproj.AssemblyReference.cache
+G:\AcademITSchool\C# Basic\10.Recursion\Exponentiation\obj\Debug\Exponentiation.csproj.SuggestedBindingRedirects.cache
+G:\AcademITSchool\C# Basic\10.Recursion\Exponentiation\obj\Debug\Exponentiation.csproj.CoreCompileInputs.cache
+G:\AcademITSchool\C# Basic\10.Recursion\Exponentiation\obj\Debug\Exponentiation.exe
+G:\AcademITSchool\C# Basic\10.Recursion\Exponentiation\obj\Debug\Exponentiation.pdb

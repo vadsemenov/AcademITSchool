@@ -1,0 +1,8 @@
+G:\AcademITSchool\4.SwitchLoops\SwitchLoops\Fibonacci\bin\Debug\Fibonacci.exe.config
+G:\AcademITSchool\4.SwitchLoops\SwitchLoops\Fibonacci\bin\Debug\Fibonacci.exe
+G:\AcademITSchool\4.SwitchLoops\SwitchLoops\Fibonacci\bin\Debug\Fibonacci.pdb
+G:\AcademITSchool\4.SwitchLoops\SwitchLoops\Fibonacci\obj\Debug\Fibonacci.csproj.AssemblyReference.cache
+G:\AcademITSchool\4.SwitchLoops\SwitchLoops\Fibonacci\obj\Debug\Fibonacci.csproj.SuggestedBindingRedirects.cache
+G:\AcademITSchool\4.SwitchLoops\SwitchLoops\Fibonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
+G:\AcademITSchool\4.SwitchLoops\SwitchLoops\Fibonacci\obj\Debug\Fibonacci.exe
+G:\AcademITSchool\4.SwitchLoops\SwitchLoops\Fibonacci\obj\Debug\Fibonacci.pdb

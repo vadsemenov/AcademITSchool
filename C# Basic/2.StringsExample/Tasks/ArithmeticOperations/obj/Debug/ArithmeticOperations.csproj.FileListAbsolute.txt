@@ -1,0 +1,8 @@
+G:\AcademITSchool\2.StringsExample\ArithmeticOperations\bin\Debug\ArithmeticOperations.exe.config
+G:\AcademITSchool\2.StringsExample\ArithmeticOperations\bin\Debug\ArithmeticOperations.exe
+G:\AcademITSchool\2.StringsExample\ArithmeticOperations\bin\Debug\ArithmeticOperations.pdb
+G:\AcademITSchool\2.StringsExample\ArithmeticOperations\obj\Debug\ArithmeticOperations.csproj.AssemblyReference.cache
+G:\AcademITSchool\2.StringsExample\ArithmeticOperations\obj\Debug\ArithmeticOperations.csproj.SuggestedBindingRedirects.cache
+G:\AcademITSchool\2.StringsExample\ArithmeticOperations\obj\Debug\ArithmeticOperations.csproj.CoreCompileInputs.cache
+G:\AcademITSchool\2.StringsExample\ArithmeticOperations\obj\Debug\ArithmeticOperations.exe
+G:\AcademITSchool\2.StringsExample\ArithmeticOperations\obj\Debug\ArithmeticOperations.pdb

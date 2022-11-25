@@ -1,0 +1,8 @@
+G:\AcademITSchool\C# Basic\11.Sort\Sort\BubbleSort\bin\Debug\BubbleSort.exe.config
+G:\AcademITSchool\C# Basic\11.Sort\Sort\BubbleSort\bin\Debug\BubbleSort.exe
+G:\AcademITSchool\C# Basic\11.Sort\Sort\BubbleSort\bin\Debug\BubbleSort.pdb
+G:\AcademITSchool\C# Basic\11.Sort\Sort\BubbleSort\obj\Debug\BubbleSort.csproj.AssemblyReference.cache
+G:\AcademITSchool\C# Basic\11.Sort\Sort\BubbleSort\obj\Debug\BubbleSort.csproj.SuggestedBindingRedirects.cache
+G:\AcademITSchool\C# Basic\11.Sort\Sort\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+G:\AcademITSchool\C# Basic\11.Sort\Sort\BubbleSort\obj\Debug\BubbleSort.exe
+G:\AcademITSchool\C# Basic\11.Sort\Sort\BubbleSort\obj\Debug\BubbleSort.pdb

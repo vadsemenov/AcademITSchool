@@ -1,0 +1,8 @@
+G:\AcademITSchool\C# Basic\11.Sort\Sort\HeapSort\bin\Debug\HeapSort.exe.config
+G:\AcademITSchool\C# Basic\11.Sort\Sort\HeapSort\bin\Debug\HeapSort.exe
+G:\AcademITSchool\C# Basic\11.Sort\Sort\HeapSort\bin\Debug\HeapSort.pdb
+G:\AcademITSchool\C# Basic\11.Sort\Sort\HeapSort\obj\Debug\HeapSort.csproj.AssemblyReference.cache
+G:\AcademITSchool\C# Basic\11.Sort\Sort\HeapSort\obj\Debug\HeapSort.csproj.SuggestedBindingRedirects.cache
+G:\AcademITSchool\C# Basic\11.Sort\Sort\HeapSort\obj\Debug\HeapSort.csproj.CoreCompileInputs.cache
+G:\AcademITSchool\C# Basic\11.Sort\Sort\HeapSort\obj\Debug\HeapSort.exe
+G:\AcademITSchool\C# Basic\11.Sort\Sort\HeapSort\obj\Debug\HeapSort.pdb

@@ -1,0 +1,8 @@
+G:\AcademITSchool\C# Basic\9.Arrays\Arrays\Average\bin\Debug\Average.exe.config
+G:\AcademITSchool\C# Basic\9.Arrays\Arrays\Average\bin\Debug\Average.exe
+G:\AcademITSchool\C# Basic\9.Arrays\Arrays\Average\bin\Debug\Average.pdb
+G:\AcademITSchool\C# Basic\9.Arrays\Arrays\Average\obj\Debug\Average.csproj.AssemblyReference.cache
+G:\AcademITSchool\C# Basic\9.Arrays\Arrays\Average\obj\Debug\Average.csproj.SuggestedBindingRedirects.cache
+G:\AcademITSchool\C# Basic\9.Arrays\Arrays\Average\obj\Debug\Average.csproj.CoreCompileInputs.cache
+G:\AcademITSchool\C# Basic\9.Arrays\Arrays\Average\obj\Debug\Average.exe
+G:\AcademITSchool\C# Basic\9.Arrays\Arrays\Average\obj\Debug\Average.pdb

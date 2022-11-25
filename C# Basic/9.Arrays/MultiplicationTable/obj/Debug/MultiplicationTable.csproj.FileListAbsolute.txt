@@ -1,0 +1,8 @@
+G:\AcademITSchool\C# Basic\9.Arrays\Arrays\MultiplicationTable\bin\Debug\MultiplicationTable.exe.config
+G:\AcademITSchool\C# Basic\9.Arrays\Arrays\MultiplicationTable\bin\Debug\MultiplicationTable.exe
+G:\AcademITSchool\C# Basic\9.Arrays\Arrays\MultiplicationTable\bin\Debug\MultiplicationTable.pdb
+G:\AcademITSchool\C# Basic\9.Arrays\Arrays\MultiplicationTable\obj\Debug\MultiplicationTable.csproj.AssemblyReference.cache
+G:\AcademITSchool\C# Basic\9.Arrays\Arrays\MultiplicationTable\obj\Debug\MultiplicationTable.csproj.SuggestedBindingRedirects.cache
+G:\AcademITSchool\C# Basic\9.Arrays\Arrays\MultiplicationTable\obj\Debug\MultiplicationTable.csproj.CoreCompileInputs.cache
+G:\AcademITSchool\C# Basic\9.Arrays\Arrays\MultiplicationTable\obj\Debug\MultiplicationTable.exe
+G:\AcademITSchool\C# Basic\9.Arrays\Arrays\MultiplicationTable\obj\Debug\MultiplicationTable.pdb

@@ -1,0 +1,8 @@
+G:\AcademITSchool\2.StringsExample\Tasks\Rectangle\bin\Debug\Rectangle.exe.config
+G:\AcademITSchool\2.StringsExample\Tasks\Rectangle\bin\Debug\Rectangle.exe
+G:\AcademITSchool\2.StringsExample\Tasks\Rectangle\bin\Debug\Rectangle.pdb
+G:\AcademITSchool\2.StringsExample\Tasks\Rectangle\obj\Debug\Rectangle.csproj.AssemblyReference.cache
+G:\AcademITSchool\2.StringsExample\Tasks\Rectangle\obj\Debug\Rectangle.csproj.SuggestedBindingRedirects.cache
+G:\AcademITSchool\2.StringsExample\Tasks\Rectangle\obj\Debug\Rectangle.csproj.CoreCompileInputs.cache
+G:\AcademITSchool\2.StringsExample\Tasks\Rectangle\obj\Debug\Rectangle.exe
+G:\AcademITSchool\2.StringsExample\Tasks\Rectangle\obj\Debug\Rectangle.pdb
