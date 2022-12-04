@@ -33,9 +33,7 @@ namespace EuclidRecursive
                 return number1;
             }
 
-            int temp = number1 % number2;
-
-            return GetGreatestCommonDivisor(number2, temp);
+            return GetGreatestCommonDivisor(number2, number1 % number2);
         }
     }
 }

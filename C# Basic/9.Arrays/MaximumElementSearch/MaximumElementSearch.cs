@@ -15,9 +15,14 @@ namespace MaximumElementSearch
 
         public static int GetMaxElement(int[] array)
         {
-            if (array == null || array.Length == 0)
+            if (array == null)
             {
-                throw new ArgumentNullException();
+                throw new ArgumentNullException("Массив не инициализирован!");
+            }
+
+            if (array.Length == 0)
+            {
+                throw new ArgumentNullException("Массив не содержит элементов!");
             }
 
             int maxElement = array[0];

@@ -9,14 +9,14 @@ namespace MaxSubstring
             Console.WriteLine("Введите строку:");
             string userString = Console.ReadLine();
 
-            var maxCharRepetitionsCount = GetMaxRepeatCharCount(userString);
+            int maxCharRepetitionsCount = GetCharMaxRepetitionsAmount(userString);
 
             Console.WriteLine($"Символ максимально повторяется {maxCharRepetitionsCount} количество раз.");
 
             Console.Read();
         }
 
-        private static int GetMaxRepeatCharCount(string line)
+        private static int GetCharMaxRepetitionsAmount(string line)
         {
             if (string.IsNullOrEmpty(line))
             {
@@ -25,34 +25,32 @@ namespace MaxSubstring
 
             line = line.ToUpper();
 
-            int maxRepeatCharAmount = 1;
+            int maxCharRepetitionsAmount = 1;
             int currentCharRepetitionsAmount = 1;
 
             for (int i = 1; i < line.Length; i++)
             {
-                char previousChar = line[i - 1];
-
-                if (previousChar == line[i])
+                if (line[i - 1] == line[i])
                 {
                     currentCharRepetitionsAmount++;
                 }
                 else
                 {
-                    if (maxRepeatCharAmount < currentCharRepetitionsAmount)
+                    if (maxCharRepetitionsAmount < currentCharRepetitionsAmount)
                     {
-                        maxRepeatCharAmount = currentCharRepetitionsAmount;
+                        maxCharRepetitionsAmount = currentCharRepetitionsAmount;
                     }
 
                     currentCharRepetitionsAmount = 1;
                 }
             }
 
-            if (maxRepeatCharAmount < currentCharRepetitionsAmount)
+            if (maxCharRepetitionsAmount < currentCharRepetitionsAmount)
             {
-                maxRepeatCharAmount = currentCharRepetitionsAmount;
+                maxCharRepetitionsAmount = currentCharRepetitionsAmount;
             }
 
-            return maxRepeatCharAmount;
+            return maxCharRepetitionsAmount;
         }
     }
 }

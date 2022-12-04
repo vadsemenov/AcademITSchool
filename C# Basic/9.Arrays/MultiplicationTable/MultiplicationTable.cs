@@ -6,9 +6,9 @@ namespace MultiplicationTable
     {
         static void Main(string[] args)
         {
-            int[,] array = GetMultiplicationTable(5, 5);
+            int[,] multiplicationTableArray = GetMultiplicationTable(2, 5);
 
-            PrintMultiplicationTable(array);
+            PrintMultiplicationTable(multiplicationTableArray);
 
             Console.Read();
         }
@@ -26,9 +26,9 @@ namespace MultiplicationTable
             }
         }
 
-        public static int[,] GetMultiplicationTable(int tableLength1, int tableLength2)
+        public static int[,] GetMultiplicationTable(int tableRowsAmount, int tableColumnsAmount)
         {
-            int[,] multiplicationTableArray = new int[tableLength1, tableLength2];
+            int[,] multiplicationTableArray = new int[tableRowsAmount, tableColumnsAmount];
 
             for (int i = 0; i < multiplicationTableArray.GetLength(0); i++)
             {

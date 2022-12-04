@@ -17,32 +17,24 @@ namespace SelectionSort
 
         private static void SortArray(int[] array)
         {
-            for (int i = 0; i < array.Length - 1; i++)
+            int minIndex, temp;
+
+            for (int i = 0; i < array.Length; i++)
             {
-                int tempMinIndex = GetMinValueIndex(array, i);
+                minIndex = i;
 
-                if (array[i] > array[tempMinIndex])
+                for (int j = i + 1; j < array.Length; j++)
                 {
-                    int temp = array[tempMinIndex];
-                    array[tempMinIndex] = array[i];
-                    array[i] = temp;
+                    if (array[j] < array[minIndex])
+                    {
+                        minIndex = j;
+                    }
                 }
+
+                temp = array[minIndex];
+                array[minIndex] = array[i];
+                array[i] = temp;
             }
-        }
-
-        private static int GetMinValueIndex(int[] array, int startIndex = 0)
-        {
-            int minIndex = startIndex;
-
-            for (int i = startIndex; i < array.Length; i++)
-            {
-                if (array[minIndex] > array[i])
-                {
-                    minIndex = i;
-                }
-            }
-
-            return minIndex;
         }
     }
 }

@@ -28,9 +28,7 @@ namespace Euclid
                     break;
                 }
 
-                number1 %= number2;
-
-                int tempNumber = number1;
+                int tempNumber = number1 % number2;
                 number1 = number2;
                 number2 = tempNumber;
             }

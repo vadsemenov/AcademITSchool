@@ -9,39 +9,28 @@ namespace Exponentiation
             int number = GetIntNumberFromConsole("Введите число больше или равное 0:");
             int power = GetIntNumberFromConsole("Введите степень числа. Число большее или равное 0:");
 
-            Console.WriteLine("Результат рекурсивного вычисления: " + GetNumberExponentiationRecursive(number, power));
-            Console.WriteLine("Результат не рекурсивного вычисления: " + GetNumberExponentiation(number, power));
+            Console.WriteLine("Результат рекурсивного вычисления: " + RaiseNumberToPowerRecursive(number, power));
+            Console.WriteLine("Результат не рекурсивного вычисления: " + RaiseNumberToPower(number, power));
             Console.Read();
         }
 
-        private static int GetNumberExponentiationRecursive(int number, int power)
+        private static int RaiseNumberToPowerRecursive(int number, int power)
         {
             if (power == 0)
             {
                 return 1;
             }
 
-            if (power == 1)
-            {
-                return number;
-            }
-
-            return number * GetNumberExponentiationRecursive(number, power - 1);
+            return number * RaiseNumberToPowerRecursive(number, --power);
         }
 
-        private static int GetNumberExponentiation(int number, int power)
+        private static int RaiseNumberToPower(int number, int power)
         {
-            if (power == 0)
-            {
-                return 1;
-            }
+            int result = 1;
 
-            var result = 1;
-
-            while (power > 0)
+            for (int i = 0; i < power; i++)
             {
                 result *= number;
-                power -= 1;
             }
 
             return result;

@@ -19,7 +19,7 @@ namespace BubbleSort
         {
             for (int i = 1; i <= array.Length; i++)
             {
-                bool isComparsion = false;
+                int counter = 0;
 
                 for (int j = 0; j < array.Length - i; j++)
                 {
@@ -29,11 +29,11 @@ namespace BubbleSort
                         array[j] = array[j + 1];
                         array[j + 1] = temp;
 
-                        isComparsion = true;
+                        counter++;
                     }
                 }
 
-                if (!isComparsion)
+                if (counter <= 1)
                 {
                     break;
                 }
