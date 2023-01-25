@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B5B0A115-1ED8-4C33-9928-31271E5AA5A1}</ProjectGuid>
+    <ProjectGuid>{691ED8B3-742B-4C89-9AF0-1401C898B21F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>OccurrencesNumber</RootNamespace>
-    <AssemblyName>OccurrencesNumber</AssemblyName>
+    <RootNamespace>InsertionSort</RootNamespace>
+    <AssemblyName>InsertionSort</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="OccurrencesAmount.cs" />
+    <Compile Include="InsertionSort.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

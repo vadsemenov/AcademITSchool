@@ -1,25 +1,34 @@
 ﻿using System;
 
-namespace URL
+namespace Url
 {
-    public class URL
+    public class Url
     {
         static void Main(string[] args)
         {
-            string url = @"http://SomeServerName/abcd/dfdf.htm?dfdf=dfdf";
+            string url = "http://SomeServerName/abcd/dfdf.htm?dfdf=dfdf";
 
-            string someServerName = url.Split(new string[] {@"://"}, StringSplitOptions.RemoveEmptyEntries)[1];
+            string serverName = GetServerName(url);
 
-            int index = someServerName.IndexOf('/');
-
-            if (index != -1)
-            {
-                someServerName = someServerName.Substring(0, index);
-            }
-
-            Console.WriteLine("Имя сервера: " + someServerName);
+            Console.WriteLine("Имя сервера: " + serverName);
 
             Console.Read();
+        }
+
+        private static string GetServerName(string url)
+        {
+            int startIndex = url.IndexOf("://", StringComparison.OrdinalIgnoreCase);
+
+            if (startIndex == -1)
+            {
+                throw new ArgumentException("Не валидная строка. Не удалось распарсить строку.", nameof(url));
+            }
+
+            startIndex += 3;
+
+            int endIndex = url.IndexOf('/', startIndex);
+
+            return endIndex == -1 ? url.Substring(startIndex) : url.Substring(startIndex, endIndex - startIndex);
         }
     }
 }

@@ -21,7 +21,7 @@ namespace Exponentiation
                 return 1;
             }
 
-            return number * RaiseNumberToPowerRecursive(number, --power);
+            return number * RaiseNumberToPowerRecursive(number, power - 1);
         }
 
         private static int RaiseNumberToPower(int number, int power)

@@ -6,7 +6,7 @@ namespace MaximumElementSearch
     {
         static void Main(string[] args)
         {
-            int[] array = {2, 5, 6, 7, 8, 10};
+            int[] array = { 2, 5, 6, 7, 8, 10 };
 
             Console.WriteLine("Максимальный элемент в массиве - " + GetMaxElement(array));
 
@@ -17,12 +17,12 @@ namespace MaximumElementSearch
         {
             if (array == null)
             {
-                throw new ArgumentNullException("Массив не инициализирован!");
+                throw new ArgumentNullException(nameof(array), $"Массив {nameof(array)} равен null!");
             }
 
             if (array.Length == 0)
             {
-                throw new ArgumentNullException("Массив не содержит элементов!");
+                throw new ArgumentException($"Массив {nameof(array)} не содержит элементов!", nameof(array));
             }
 
             int maxElement = array[0];

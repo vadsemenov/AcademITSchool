@@ -8,16 +8,19 @@ namespace StringSplit
         {
             string line = "1, 2, 3, 4, 5";
 
-            string[] numbersArray = line.Split(new string[] {","}, StringSplitOptions.RemoveEmptyEntries);
+            string[] numbersStringsArray = line.Split(new string[] { "," }, StringSplitOptions.RemoveEmptyEntries);
+
+            int[] numbersArray = new int[numbersStringsArray.Length];
 
             int sum = 0;
 
-            foreach (var numberInString in numbersArray)
+            for (int i = 0; i < numbersStringsArray.Length; i++)
             {
-                if (int.TryParse(numberInString, out int number))
-                {
-                    sum += number;
-                }
+                int number = Convert.ToInt32(numbersStringsArray[i]);
+
+                numbersArray[i] = number;
+
+                sum += number;
             }
 
             Console.WriteLine("Сумма чисел строки: " + sum);

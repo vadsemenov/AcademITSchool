@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B5B0A115-1ED8-4C33-9928-31271E5AA5A1}</ProjectGuid>
+    <ProjectGuid>{DD91D8D5-B21A-4621-9668-24186BE24D12}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>OccurrencesNumber</RootNamespace>
-    <AssemblyName>OccurrencesNumber</AssemblyName>
+    <RootNamespace>QuickSort</RootNamespace>
+    <AssemblyName>QuickSort</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="OccurrencesAmount.cs" />
+    <Compile Include="QuickSort.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

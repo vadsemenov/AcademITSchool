@@ -9,7 +9,7 @@ namespace Palindrome
             Console.WriteLine("Введите строку:");
             string userString = Console.ReadLine();
 
-            if (IsPalindromeString(userString))
+            if (IsPalindrome(userString))
             {
                 Console.WriteLine("Строка - Палиндром!");
             }
@@ -21,27 +21,28 @@ namespace Palindrome
             Console.Read();
         }
 
-        private static bool IsPalindromeString(string line)
+        private static bool IsPalindrome(string line)
         {
-            if (string.IsNullOrEmpty(line) || line.Length < 1)
+            if (line == null)
             {
-                return false;
+                throw new ArgumentNullException(nameof(line), "Строка - null!");
+            }
+
+            if (line.Length == 0)
+            {
+                return true;
             }
 
             line = line.ToUpper();
 
-            int j = line.Length - 1;
-
-            bool isComparisonHave = false;
-
-            for (int i = 0; i < line.Length; i++)
+            for (int i = 0, j = line.Length - 1; i <= j; i++, j--)
             {
-                if (!char.IsLetter(line[i]))
+                while (!char.IsLetter(line[i]) && i < j)
                 {
                     i++;
                 }
 
-                if (!char.IsLetter(line[j]))
+                while (!char.IsLetter(line[j]) && i < j)
                 {
                     j--;
                 }
@@ -55,15 +56,9 @@ namespace Palindrome
                 {
                     return false;
                 }
-                else
-                {
-                    isComparisonHave = true;
-                }
-
-                j--;
             }
 
-            return isComparisonHave;
+            return true;
         }
     }
 }

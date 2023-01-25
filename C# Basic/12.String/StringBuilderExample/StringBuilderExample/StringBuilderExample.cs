@@ -7,17 +7,18 @@ namespace StringBuilderExample
     {
         static void Main(string[] args)
         {
-            StringBuilder numbers = new StringBuilder();
+            StringBuilder numbersStringBuilder = new StringBuilder();
 
-            numbers.Append("1");
-
-            for (int i = 2; i <= 100; i++)
+            for (int i = 1; i <= 100; i++)
             {
-                numbers.Append(",");
-                numbers.Append(i.ToString());
+                numbersStringBuilder.Append(i).Append(", ");
             }
 
-            Console.WriteLine(numbers.ToString());
+            numbersStringBuilder.Remove(numbersStringBuilder.Length - 2, 2);
+
+            string numbersLine = numbersStringBuilder.ToString();
+
+            Console.WriteLine(numbersLine);
 
             Console.Read();
         }
